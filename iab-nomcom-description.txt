@@ -1,3 +1,6 @@
+The IAB Role
+============
+
 The IAB is chartered both as a committee of the IETF and as an advisory body
 of the Internet Society. The IAB acts as a source of advice and guidance
 concerning technical, architectural and procedural matters pertaining to the
@@ -11,7 +14,7 @@ operation of the IETF including being the formal channel for liaisons with
 other organizations.
 
 Architectural role
-==================
+------------------
 
 The IAB oversees various aspects of the architecture for the protocols and
 technical specifications as developed by the IETF, as well as overseeing
@@ -40,7 +43,7 @@ public, to the Board of Trustees and Officers of the Internet Society, and to
 the larger community as circumstances dictate.
 
 Organizational role
-===================
+-------------------
 
 The IAB has a number of roles within the organizational functioning of the
 IETF. While these roles require administrative rather than technical work,
@@ -146,8 +149,7 @@ absence of in-depth knowledge about specific program topics. The IAB needs at
 least some members with program management skills that will facilitate
 interfacing between programs and the IAB.
 
-IAB members
-===========
+IAB members...
 
 - are highly regarded in one or more domains of technical subject matter. They may be recognized in a particular area as being a domain expert, but also exhibit advanced architectural and technical competence.
 - are willing and able to apply those technical skills and analytic thinking to understand and usefully contribute to discussions in other areas and to have interests broad enough that they are willing and able to contribute to discussions on new areas as appropriate.
