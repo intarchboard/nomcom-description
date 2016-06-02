@@ -103,7 +103,6 @@ of the programs and their progress, and makes necessary adjustments and
 prioritization. This includes a review of the program membership, activity
 plan and progress against deliverables. Current IAB programs include:
 
-- Emergency Services Program
 - IANA Evolution Program
 - Internationalization Program
 - IP Stack Evolution Program
