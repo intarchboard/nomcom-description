@@ -1,17 +1,18 @@
 The IAB Role
 ============
 
-The IAB is chartered both as a committee of the IETF and as an advisory body
-of the Internet Society. The IAB acts as a source of advice and guidance
-concerning technical, architectural and procedural matters pertaining to the
-Internet and its enabling technologies; this includes both reviewing proposed
-new work and providing input to the IESG as well as providing perspective to
-the broader community on important issues. The IAB develops and documents
-architectural insight and guidance for the Internet. It provides architectural
-input into IETF technical activities as well as sponsoring and organizing work
-in the IRTF. The IAB also has several procedural roles to support the
-operation of the IETF including being the formal channel for liaisons with
-other organizations.
+The IAB is chartered both as a committee of the IETF and as an advisory body of
+the Internet Society. The IAB acts as a source of advice and guidance concerning
+technical, architectural and procedural matters pertaining to the Internet and
+its enabling technologies; this includes both reviewing proposed new work and
+providing input to the IESG as well as providing perspective to the broader
+community on important issues.
+
+The IAB develops and documents architectural insight and guidance for the
+Internet. It provides architectural input into IETF technical activities as well
+as sponsoring and organizing work in the IRTF. The IAB also has several
+procedural roles to support the operation of the IETF including being the formal
+channel for liaisons with other organizations.
 
 Architectural role
 ------------------
@@ -21,45 +22,45 @@ technical specifications as developed by the IETF, as well as overseeing
 activities in the IRTF. While the IAB does draw on specific expertise as
 required, it is expected that the sum of the expertise of IAB members
 encompasses a broad range of technologies under IETF and IRTF study, and also
-encompasses a broad range of perspectives on these specifications, from
-research and academic study through development, deployment and operational
-experience.
+encompasses a broad range of perspectives on these specifications, from research
+and academic study through development, deployment and operational experience.
 
 A major role of the IAB is to take a broad and long range perspective to offer
 input into the planning and coordination among different areas of Internet
-activities, including those of the IETF and IRTF. The IAB, both collectively
-and on an individual basis, is expected to pay attention to important long-
-term issues in the Internet, to make sure that these issues are brought to the
-attention of the groups that are in a position to address them, and to make
-sure that the right people within these groups are in contact with each other.
+activities, including those of the IETF and IRTF. The IAB, both collectively and
+on an individual basis, is expected to pay attention to important long- term
+issues in the Internet, to make sure that these issues are brought to the
+attention of the groups that are in a position to address them, and to make sure
+that the right people within these groups are in contact with each other.
+
 To foster this community-building role, the IAB maintains open communications
-channels with other bodies engaged in Internet governance, including ICANN,
-the Regional Internet Registries, and ISOC, and provides technical and
-architectural input as appropriate. As needed, the IAB works with ISOC to
-provide advice and guidance to the Internet community on technical,
-architectural, procedural, and policy matters pertaining to the Internet and
-its enabling technologies. That advice and guidance are provided to the
-public, to the Board of Trustees and Officers of the Internet Society, and to
-the larger community as circumstances dictate.
+channels with other bodies engaged in Internet governance, including ICANN, the
+Regional Internet Registries, and ISOC, and provides technical and architectural
+input as appropriate. As needed, the IAB works with ISOC to provide advice and
+guidance to the Internet community on technical, architectural, procedural, and
+policy matters pertaining to the Internet and its enabling technologies. That
+advice and guidance are provided to the public, to the Board of Trustees and
+Officers of the Internet Society, and to the larger community as circumstances
+dictate.
 
 Organizational role
 -------------------
 
 The IAB has a number of roles within the organizational functioning of the
-IETF. While these roles require administrative rather than technical work,
-they form a large and important part of the IABs activities. All IAB members
-need to be prepared to participate (to varying degrees) in these activities.
+IETF. While these roles require administrative rather than technical work, they
+form a large and important part of the IABs activities. All IAB members need to
+be prepared to participate (to varying degrees) in these activities.
 
 The IAB serves as an appeal board for complaints of improper execution of the
-standards process, acting on appeals in respect of IESG standards decisions.
-In addition, the IAB appoints ISOC BoT members as well as a member of the
-IAOC, and hears appeals on matters related to the IAOC and IAD.
+standards process, acting on appeals in respect of IESG standards decisions.  In
+addition, the IAB appoints ISOC BoT members as well as a member of the IAOC, and
+hears appeals on matters related to the IAOC and IAD.
 
 The IAB is responsible for the RFC Editor function, including appointing and
 overseeing the RFC Series Editor. The IAB provides direction for the
 administration of the IETF's protocol parameters registries (the IANA
-function). The IAB selects the chair of the Internet Research Task Force
-(IRTF) for a renewable two year term, and oversees the IRTF's activities.
+function). The IAB selects the chair of the Internet Research Task Force (IRTF)
+for a renewable two year term, and oversees the IRTF's activities.
 
 The IAB has a role in the IETF Nominations Committee process: the IAB confirms
 the IETF Chair and the Area Directors (IESG).
@@ -69,39 +70,42 @@ that undertake activities that overlap or intersect with the IETF's activities
 including other standards development organizations. The IAB appoints liaison
 managers to manage these relationships, and deals with liaison matters of an
 architectural or general procedural nature. The IAB becomes actively involved
-when these liaison relationships have difficulties, for example, in
-determining clear boundaries of responsibility. The IAB also appoints a member
-to the ICANN Nomcom and a liaison to the ICANN board to represent the IETF's
-interests within ICANN. IAB members fulfill the role of liaison "shepherds" to
-advise the liaison managers and to act as review point for assessing the
-efficacy of liaison activities and the liaison manager's duties.
+when these liaison relationships have difficulties, for example, in determining
+clear boundaries of responsibility. The IAB also appoints a member to the ICANN
+Nomcom and a liaison to the ICANN board to represent the IETF's interests within
+ICANN. IAB members fulfill the role of liaison "shepherds" to advise the liaison
+managers and to act as review point for assessing the efficacy of liaison
+activities and the liaison manager's duties.
 
 IAB Organization
 ================
 
 In order to enhance institutional memory and enable the development of medium
-and long term activities, the IAB has organized its work in several areas in
-the form of programs. A program is a high priority, long term activity scoped
-and managed by the IAB, which can be thought of as an IAB directorate, small
-task force, or an ad-hoc body of (independent) technical experts (see RFC 2850
-Section 2.1). Program outputs include IAB documents and statements. All IAB
-members are expected to review and comment on program outputs that represent
-the consensus of the IAB. In order to ensure that all IAB activities have IAB
-participation, members of the IAB are expected to actively participate in one
-or more programs.
+and long term activities, the IAB has organized its work in several areas in the
+form of programs. A program is a high priority, long term activity scoped and
+managed by the IAB, which can be thought of as an IAB directorate, small task
+force, or an ad-hoc body of (independent) technical experts (see RFC 2850
+Section 2.1).
 
-The program leads, who will usually be IAB members, communicate the program
-plan to the community, solicit feedback, facilitate activities within the
-program, provide oversight and ensure continuity. The program lead will
-typically nominate non-IAB members to the program, subject to IAB approval,
-will develop the program plan, will organize regular program conference calls,
-and will develop consensus within the program for recommendations to be made
-to the IAB. The lead doesn’t need to have specific expertise in the area, but
-must have good general understanding of the issues from technical, business,
-and or policy perspective. The IAB as a whole periodically reviews the state
-of the programs and their progress, and makes necessary adjustments and
-prioritization. This includes a review of the program membership, activity
-plan and progress against deliverables. Current IAB programs include:
+Program outputs include IAB documents and statements. All IAB members are
+expected to review and comment on program outputs that represent the consensus
+of the IAB. In order to ensure that all IAB activities have IAB participation,
+members of the IAB are expected to actively participate in one or more programs.
+
+The program leads, who will usually be IAB members, communicate the program plan
+to the community, solicit feedback, facilitate activities within the program,
+provide oversight and ensure continuity. The program lead will typically
+nominate non-IAB members to the program, subject to IAB approval, will develop
+the program plan, will organize regular program conference calls, and will
+develop consensus within the program for recommendations to be made to the
+IAB. The lead doesn’t need to have specific expertise in the area, but must have
+good general understanding of the issues from technical, business, and or policy
+perspective.
+
+The IAB as a whole periodically reviews the state of the programs and their
+progress, and makes necessary adjustments and prioritization. This includes a
+review of the program membership, activity plan and progress against
+deliverables. Current IAB programs include:
 
 - IANA Evolution Program
 - Internationalization Program
@@ -110,13 +114,13 @@ plan and progress against deliverables. Current IAB programs include:
 - Privacy and Security Program
 - Names and Identifiers Program
 - IETF Protocol Registries Oversight Committee
-- RFC Editor Series Oversight Committee 
+- RFC Editor Series Oversight Committee
 
 In addition, the IAB chooses a chair for a one year term at the March IETF
 meeting, after new members of the IAB are seated. The chair represents the IAB
 externally when necessary, and is an ex officio member of the IESG and the
-IAOC. There shall be at least two members of the IAB (among the nominated
-slate and the incumbents) who are willing and able to take the role of Chair.
+IAOC. There shall be at least two members of the IAB (among the nominated slate
+and the incumbents) who are willing and able to take the role of Chair.
 
 IAB Member Qualities
 ====================
@@ -126,17 +130,16 @@ IAB members are expected to act at the "Board" level.
 The IAB is most effective when it is composed of a diverse set of individuals
 with a broad range of technical skills, architectural perspectives and
 backgrounds. For example, it is desirable for IAB members to have technical
-leadership experience, operational management backgrounds, research or
-academic backgrounds, implementation experience, and experience in other
-bodies involved in Internet governance. Likewise it is desirable for IAB
-members to have had experiences with differing technical challenges and
-requirements, including those that vary by geographic region. It is critical
-that IAB members be willing and able to work with each other to develop a
-shared viewpoint.
+leadership experience, operational management backgrounds, research or academic
+backgrounds, implementation experience, and experience in other bodies involved
+in Internet governance. Likewise it is desirable for IAB members to have had
+experiences with differing technical challenges and requirements, including
+those that vary by geographic region. It is critical that IAB members be willing
+and able to work with each other to develop a shared viewpoint.
 
 Some IAB activities are very specialized - for example, managing liaison
-relationships with other SDOs on behalf of the IETF. It is advantageous for
-the IAB when NomCom ensures that at least some IAB members have sufficient
+relationships with other SDOs on behalf of the IETF. It is advantageous for the
+IAB when NomCom ensures that at least some IAB members have sufficient
 managerial skills to understand the issues that need to come to the IAB by
 managing and documenting inter-SDO liaison relationships on a strategic basis.
 
@@ -150,46 +153,63 @@ interfacing between programs and the IAB.
 
 IAB members...
 
-- are highly regarded in one or more domains of technical subject matter. They may be recognized in a particular area as being a domain expert, but also exhibit advanced architectural and technical competence.
-- are willing and able to apply those technical skills and analytic thinking to understand and usefully contribute to discussions in other areas and to have interests broad enough that they are willing and able to contribute to discussions on new areas as appropriate.
+- are highly regarded in one or more domains of technical subject matter. They
+  may be recognized in a particular area as being a domain expert, but also
+  exhibit advanced architectural and technical competence.
+- are willing and able to apply those technical skills and analytic thinking to
+  understand and usefully contribute to discussions in other areas and to have
+  interests broad enough that they are willing and able to contribute to
+  discussions on new areas as appropriate.
 - are willing and able to apply their managerial skills to new areas.
-- are willing and able to make introductions among their networks of technical experts in support of the IAB's community-building role.
-- are constructive in framing new approaches, technically or in terms of communication.
+- are willing and able to make introductions among their networks of technical
+  experts in support of the IAB's community-building role.
+- are constructive in framing new approaches, technically or in terms of
+  communication.
 - are willing and able to work well with others.
-- are willing and able to constructively contribute to consensus-based processes.
-- have substantial experience within the IETF, and an understanding of its processes and workings.
-- are willing and able to commit the time to follow IAB, IRTF and IETF discussions on a regular basis. This commitment should extend to regular attendance at IAB teleconferences and attendance in person at IETF meetings, IAB workshops, an annual IAB retreat, as well as the commitment to review material and generate and edit documentation. This may also extend to leading open discussion forums and active participation in IETF WG and IRTF RG activities.
+- are willing and able to constructively contribute to consensus-based
+  processes.
+- have substantial experience within the IETF, and an understanding of its
+  processes and workings.
+- are willing and able to commit the time to follow IAB, IRTF and IETF
+  discussions on a regular basis. This commitment should extend to regular
+  attendance at IAB teleconferences and attendance in person at IETF meetings,
+  IAB workshops, an annual IAB retreat, as well as the commitment to review
+  material and generate and edit documentation. This may also extend to leading
+  open discussion forums and active participation in IETF WG and IRTF RG
+  activities.
 
-Time Commitment 
+Time Commitment
 ===============
 
 The time commitment for an IAB member averages about two days a week in normal
 weeks, and full-time during IETF meetings, retreats, and IAB workshops. Simply
 tracking the various mailing list and documents can take up to a day a week.
 About a quarter to half of the time is spent on the organizational activities.
-Leading a program is an equivalent time commitment to chairing a working
-group, and active participation in a program an equivalent time commitment to
-authoring one or more documents in a working group. Each IAB member should be
-able to commit to leading a program during their IAB term. 
+Leading a program is an equivalent time commitment to chairing a working group,
+and active participation in a program an equivalent time commitment to authoring
+one or more documents in a working group. Each IAB member should be able to
+commit to leading a program during their IAB term.
 
-Some positions within the IAB require more time. The typical time commitment
-for the IAB Chair is three days a week, and this position may require more
-travel. The IAB Chair is an ex officio member of the IESG and the IAOC, as
-well, and must devote time to the meetings of these organizations.
+Some positions within the IAB require more time. The typical time commitment for
+the IAB Chair is three days a week, and this position may require more
+travel. The IAB Chair is an ex officio member of the IESG and the IAOC, as well,
+and must devote time to the meetings of these organizations.
 
-Note that the while the IAB Chair is currently an ex officio member of the
-IAOC per RFC 4071, this may change in the near future to allow the IAB to
-appoint a member whose skills are better matched to the IAOC (see 
-draft-hardie-iaoc-iab-update). If this is the case, this appointed member 
-will also have to devote time to the IAOC.
+Note that the while the IAB Chair is currently an ex officio member of the IAOC
+per RFC 4071, this may change in the near future to allow the IAB to appoint a
+member whose skills are better matched to the IAOC (see
+draft-hardie-iaoc-iab-update). If this is the case, this appointed member will
+also have to devote time to the IAOC.
 
 IAB members may be tapped by ADs to do reviews of specialized documents and
 other tasks, potentially adding to those numbers. IAB members should plan to
 arrive at IETF meetings on the Saturday preceding the meeting. Time commitment
 during the meeting includes time on Sunday, early mornings during the week,
-Friday afternoons, as well as coverage of BoFs during the meeting for
-technical and architectural review. An annual retreat will be scheduled for up
-to three days in late April or early May. The IAB schedules workshops on
-topics of interest from time to time, and IAB members are encouraged to attend
-these as well.
+Friday afternoons, as well as coverage of BoFs during the meeting for technical
+and architectural review.
 
+An annual retreat will be scheduled for up to three days in late April or early
+May.
+
+The IAB schedules workshops on topics of interest from time to time, and IAB
+members are encouraged to attend these as well.
