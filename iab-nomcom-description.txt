@@ -181,14 +181,15 @@ IAB members...
 Time Commitment
 ===============
 
-The time commitment for an IAB member averages about two days a week in normal
-weeks, and full-time during IETF meetings, retreats, and IAB workshops. Simply
-tracking the various mailing list and documents can take up to a day a week.
-About a quarter to half of the time is spent on the organizational activities.
-Leading a program is an equivalent time commitment to chairing a working group,
-and active participation in a program an equivalent time commitment to authoring
-one or more documents in a working group. Each IAB member should be able to
-commit to leading a program during their IAB term.
+The time commitment for an IAB member averages about eight to sixteen hours a
+week in normal weeks, and full-time during IETF meetings, retreats, and IAB
+workshops. Simply tracking the various mailing list and documents can take up
+to a day a week. About a quarter to half of the time is spent on the
+organizational activities. Leading a program is an equivalent time commitment
+to chairing a working group, and active participation in a program an
+equivalent time commitment to authoring one or more documents in a working
+group. Each IAB member should be able to commit to leading a program during
+their IAB term.
 
 Some positions within the IAB require more time. The typical time commitment for
 the IAB Chair is three days a week, and this position may require more
@@ -213,3 +214,26 @@ May.
 
 The IAB schedules workshops on topics of interest from time to time, and IAB
 members are encouraged to attend these as well.
+
+Membership
+==========
+
+The incumbents are:
+
+* Ralph Droms (*)
+* Russ Housley (*)
+* Robert Sparks
+* Andrew Sullivan
+* Dave Thaler (*)
+* Suzanne Woolf
+
+(*) will not accept nomination for reappointment
+
+Continuing IAB members are:
+
+* Ted Hardie
+* Joe Hildebrand
+* Lee Howard
+* Erik Nordmark
+* Martin Thomson
+* Brian Trammell
