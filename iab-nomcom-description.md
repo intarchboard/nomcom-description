@@ -1,4 +1,4 @@
-==The IAB Role==
+== The IAB Role
 
 The Internet Architecture Board (IAB) is chartered both as a committee of the IETF and as
 an advisory body of the Internet Society (ISOC). The IAB supports the operation of the
@@ -7,7 +7,7 @@ and organizing work in the IRTF. The IAB acts as a source of advice and guidance
 concerning technical, architectural and procedural matters pertaining to the Internet and
 its enabling technologies.
 
-===Organizational role===
+=== Organizational role
 
 The IAB has a number of roles within the organizational functioning of the IETF. While
 these roles require administrative rather than technical work, they form a significant
