@@ -24,19 +24,16 @@ part of the IAB's activities.
 
 - The IAB hears appeals on matters related to the IETF LLC.
 
-- The IAB is responsible for the selection of the RFC Series Oversight Committee (RSOC) and
-  for approving any recommendations of the RSOC which affect the RSE as an individual.
-
 - The IAB provides direction for the administration of the IETF's protocol parameters
   registries (the IANA function).
 
-- The IAB selects the chair of the Internet Research Task Force (IRTF) and oversees the IRTF's
+- The IAB selects the Independent submission Editor as well as
+  the chair of the Internet Research Task Force (IRTF) and oversees the IRTF's
   activities.
 
 - The IAB is responsible for interfacing with other organizations on behalf of the IETF. It
   does this primarily through its liaison process.
   When necessary, IAB members will more directly engage with those other organizations.
-  IAB members serve as "shepherds" to individually oversee particular relationships.
 
 All IAB members need to be prepared to participate (to varying degrees) in these
 activities.
