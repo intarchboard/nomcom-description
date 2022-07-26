@@ -1,2 +1,2 @@
 # nomcom-description
-NomCom job description for IAB members (2016)
+NomCom job description for IAB members 
