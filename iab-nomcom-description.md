@@ -1,4 +1,4 @@
-== The IAB Role
+## The IAB Role
 
 The Internet Architecture Board (IAB) is chartered both as a committee of the IETF and as
 an advisory body of the Internet Society (ISOC). The IAB supports the operation of the
@@ -7,7 +7,7 @@ and organizing work in the IRTF. The IAB acts as a source of advice and guidance
 concerning technical, architectural and procedural matters pertaining to the Internet and
 its enabling technologies.
 
-=== Organizational role
+### Organizational role
 
 The IAB has a number of roles within the organizational functioning of the IETF. While
 these roles require administrative rather than technical work, they form a significant
@@ -42,7 +42,7 @@ All IAB members need to be prepared to participate (to varying degrees) in these
 activities.
 
 
-=== Architectural role
+### Architectural role
 
 A principal role of the IAB is to take a broad and long range perspective to offer input
 into the planning and coordination among different areas of Internet activities, including
@@ -62,7 +62,7 @@ its enabling technologies.
 That advice and guidance are provided to the public, to the Board of Trustees, and
 Officers of the Internet Society as circumstances dictate.
 
-== Organization of the IAB ==
+## Organization of the IAB 
 
 In order to enhance institutional memory and enable the development of medium and long
 term activities, the IAB has organized its work in several areas in the form of programs
@@ -83,7 +83,7 @@ new members of the IAB are seated.
 There shall be at least two members of the IAB (among the nominated slate and the
 incumbents) who are willing and able to take the role of Chair.
 
-==IAB Member Qualities==
+## IAB Member Qualities 
 
 IAB members are expected to act at the "Board" level.
 
@@ -115,7 +115,7 @@ While these characteristics are all important, individuals have different streng
 The IAB as a whole benefits most from a complementary and diverse set of skills that are
 balanced across all aspects of the role.
 
-==Time Commitment==
+## Time Commitment
 
 The time commitment for an IAB member averages about six to sixteen hours a week in normal
 weeks (with significant week-to-week variability), and full-time during IETF meetings,
@@ -145,7 +145,7 @@ The IAB typically holds an annual retreat from one to three days, and teleconfer
 regular basis, currently 2-3 times a month.
 
 
-===References:===
+## References 
 
 * [https://www.iab.org/about/iab-overview/ IAB Role]
 * [http://www.ietf.org/rfc/rfc2850.txt IAB Charter]
