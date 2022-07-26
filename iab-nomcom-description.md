@@ -19,7 +19,7 @@ part of the IAB's activities.
 - The IAB serves as an appeal board for complaints of improper execution of the standards
   process, acting on appeals in respect of IESG standards decisions.
 
-- The IAB appoints ISOC Board of Trustees (BoT) members, a member of the IETF LLC, and
+- The IAB appoints ISOC Board of Trustees (BoT) members and
   similar positions in other Internet governance bodies.
 
 - The IAB hears appeals on matters related to the IETF LLC.
