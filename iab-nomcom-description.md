@@ -62,15 +62,19 @@ Officers of the Internet Society as circumstances dictate.
 ## Organization of the IAB 
 
 In order to enhance institutional memory and enable the development of medium and long
-term activities, the IAB has organized its work in several areas in the form of programs
-(see <https://www.iab.org/activities/programs/>). A
-program is a long-term activity scoped and managed by the IAB comprised of a body of
+term activities, the IAB has organized its work in several areas in the form of technical
+programs and administrative support groups (see <https://www.iab.org/activities/programs/>).
+A technical program is a long-term activity scoped and managed by the IAB comprised of a body of
 technical experts from the wider community (see
 [RFC 2850](https://tools.ietf.org/html/rfc2850) Section 2.1). Program outputs include IAB
 documents and statements.
 All IAB members are expected to review and comment on program outputs that represent the
-consensus of the IAB. In order to ensure that all IAB activities have IAB participation,
-members of the IAB are expected to actively participate in one or more programs.
+consensus of the IAB.
+Administrative support groups are similar bodies that assist the IAB in carrying out
+its responsibilities to the community.
+In order to ensure that all IAB activities have IAB participation,
+members of the IAB are expected to actively participate in one or more programs or
+administrative support groups.
 
 The IAB schedules workshops on topics of interest from time to time, and IAB members are
 encouraged to attend these as well.
