@@ -7,6 +7,7 @@ and organizing work in the IRTF. The IAB acts as a source of advice and guidance
 concerning technical, architectural and procedural matters pertaining to the Internet and
 its enabling technologies.
 
+
 ### Organizational role
 
 The IAB has a number of roles within the organizational functioning of the IETF. While
@@ -30,8 +31,8 @@ part of the IAB's activities.
 - The IAB provides direction for the administration of the IETF's protocol parameters
   registries (the IANA function).
 
-- The IAB selects the chair of the Internet Research Task Force (IRTF) and oversees the IRTF's
-  activities.
+- The IAB selects the chair of the Internet Research Task Force (IRTF) and oversees the
+  IRTF's activities.
 
 - The IAB is responsible for interfacing with other organizations on behalf of the IETF. It
   does this primarily through its liaison process.
@@ -40,7 +41,6 @@ part of the IAB's activities.
 
 All IAB members need to be prepared to participate (to varying degrees) in these
 activities.
-
 
 ### Architectural role
 
@@ -52,7 +52,6 @@ important long-term issues in the Internet and to make sure that these issues ar
 to the attention of the groups that are in a position to address them, and to make sure
 that the right people within these groups are in contact with each other.
 
-
 The IAB maintains open communications channels with other bodies engaged in Internet
 governance, including ICANN, the Regional Internet Registries, and ISOC, and provides
 technical and architectural input as appropriate.
@@ -62,7 +61,7 @@ its enabling technologies.
 That advice and guidance are provided to the public, to the Board of Trustees, and
 Officers of the Internet Society as circumstances dictate.
 
-## Organization of the IAB 
+## Organization of the IAB
 
 In order to enhance institutional memory and enable the development of medium and long
 term activities, the IAB has organized its work in several areas in the form of programs
@@ -83,7 +82,7 @@ new members of the IAB are seated.
 There shall be at least two members of the IAB (among the nominated slate and the
 incumbents) who are willing and able to take the role of Chair.
 
-## IAB Member Qualities 
+## IAB Member Qualities
 
 IAB members are expected to act at the "Board" level.
 
@@ -144,10 +143,9 @@ expected to cover and report on BoFs during the meeting.
 The IAB typically holds an annual retreat from one to three days, and teleconferences on a
 regular basis, currently 2-3 times a month.
 
+## References
 
-## References 
-
-* [https://www.iab.org/about/iab-overview/ IAB Role]
-* [http://www.ietf.org/rfc/rfc2850.txt IAB Charter]
-* [https://www.iab.org/about/description/ IAB Role Description]
-* [http://www.iab.org/activities/programs/ IAB Program Description]
+- [https://www.iab.org/about/iab-overview/ IAB Role]
+- [http://www.ietf.org/rfc/rfc2850.txt IAB Charter]
+- [https://www.iab.org/about/description/ IAB Role Description]
+- [http://www.iab.org/activities/programs/ IAB Program Description]
