@@ -8,7 +8,7 @@ concerning technical, architectural and procedural matters pertaining to the Int
 its enabling technologies.
 
 
-### Organizational role
+### Organizational Role
 
 The IAB has a number of roles within the organizational functioning of the IETF. While
 these roles require administrative rather than technical work, they form a significant
@@ -39,7 +39,7 @@ part of the IAB's activities.
 All IAB members need to be prepared to participate (to varying degrees) in these
 activities.
 
-### Architectural role
+### Architectural Role
 
 A principal role of the IAB is to take a broad and long range perspective to offer input
 into the planning and coordination among different areas of Internet activities, including
