@@ -20,24 +20,21 @@ part of the IAB's activities.
 - The IAB serves as an appeal board for complaints of improper execution of the standards
   process, acting on appeals in respect of IESG standards decisions.
 
-- The IAB appoints ISOC Board of Trustees (BoT) members, a member of the IETF LLC, and
+- The IAB appoints ISOC Board of Trustees (BoT) members and
   similar positions in other Internet governance bodies.
 
 - The IAB hears appeals on matters related to the IETF LLC.
 
-- The IAB is responsible for the selection of the RFC Series Oversight Committee (RSOC) and
-  for approving any recommendations of the RSOC which affect the RSE as an individual.
-
 - The IAB provides direction for the administration of the IETF's protocol parameters
   registries (the IANA function).
 
-- The IAB selects the chair of the Internet Research Task Force (IRTF) and oversees the
-  IRTF's activities.
+- The IAB selects the Independent submission Editor as well as
+  the chair of the Internet Research Task Force (IRTF) and oversees the IRTF's
+  activities.
 
 - The IAB is responsible for interfacing with other organizations on behalf of the IETF. It
   does this primarily through its liaison process.
   When necessary, IAB members will more directly engage with those other organizations.
-  IAB members serve as "shepherds" to individually oversee particular relationships.
 
 All IAB members need to be prepared to participate (to varying degrees) in these
 activities.
@@ -64,15 +61,19 @@ Officers of the Internet Society as circumstances dictate.
 ## Organization of the IAB
 
 In order to enhance institutional memory and enable the development of medium and long
-term activities, the IAB has organized its work in several areas in the form of programs
-(see <https://www.iab.org/activities/programs/>). A
-program is a long-term activity scoped and managed by the IAB comprised of a body of
+term activities, the IAB has organized its work in several areas in the form of technical
+programs and administrative support groups (see <https://www.iab.org/activities/programs/>).
+A technical program is a long-term activity scoped and managed by the IAB comprised of a body of
 technical experts from the wider community (see
 [RFC 2850](https://tools.ietf.org/html/rfc2850) Section 2.1). Program outputs include IAB
 documents and statements.
 All IAB members are expected to review and comment on program outputs that represent the
-consensus of the IAB. In order to ensure that all IAB activities have IAB participation,
-members of the IAB are expected to actively participate in one or more programs.
+consensus of the IAB.
+Administrative support groups are similar bodies that assist the IAB in carrying out
+its responsibilities to the community.
+In order to ensure that all IAB activities have IAB participation,
+members of the IAB are expected to actively participate in one or more programs or
+administrative support groups.
 
 The IAB schedules workshops on topics of interest from time to time, and IAB members are
 encouraged to attend these as well.
