@@ -36,6 +36,10 @@ part of the IAB's activities.
   does this primarily through its liaison process.
   When necessary, IAB members will more directly engage with those other organizations.
 
+- The IAB reviews the charters of new and existing IRTF RGs.  The IAB receives regular
+  feedback and status overviews from IRTF WGs and provides feedback to the community
+  from an architectural perspective.
+
 All IAB members need to be prepared to participate (to varying degrees) in these
 activities.
 
@@ -110,6 +114,11 @@ and direct one or more programs even in the absence of in-depth knowledge about 
 program topics.
 The IAB needs at least some members with program management skills that will facilitate
 interfacing between programs and the IAB.
+
+The IAB also has regular technical discussions with invited experts on selected topics
+that could be of interest to the Internet community. It would be helpful for IAB members
+to have some experience and interest in organizing such information exchanges with 
+industry, academia and civil society.
 
 While these characteristics are all important, individuals have different strengths.
 The IAB as a whole benefits most from a complementary and diverse set of skills that are
