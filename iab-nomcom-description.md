@@ -143,7 +143,7 @@ active participation in a program can take additional time.
 The typical time commitment for the IAB Chair is three days a week, and this position may
 require more travel.
 The IAB Chair is an ex officio member of the IESG and must devote time to IESG meetings
-including a yearly retreat, which is often but not always adjacent to the IAB retreat.
+including a yearly retreat, which is often but not always adjacent to the IAB retreat. The IAB selects its chair every year and it would be beneficial for the Nomcom to consider one or more candidates who are qualified for/interested in serving as chair.
 
 IAB members may be called upon by ADs to do reviews of specialized documents and other
 tasks, potentially adding to those numbers.
