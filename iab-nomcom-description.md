@@ -40,6 +40,10 @@ part of the IAB's activities as specified in the IAB charter [[RFC 2850]](https:
   feedback and status overviews from IRTF WGs and provides feedback to the community
   from an architectural perspective.
 
+- The IAB is responsible for appointing one of the chairs of the RFC Series Working
+  Group (RSWG), and a voting member of the RFC Series Approval Board (RSAB) as
+  specified in [[RFC 9280]](https://tools.ietf.org/html/rfc9280)
+
 All IAB members need to be prepared to participate (to varying degrees) in these
 activities.
 
