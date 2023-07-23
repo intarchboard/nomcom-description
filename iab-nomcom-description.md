@@ -12,7 +12,7 @@ its enabling technologies.
 
 The IAB has a number of roles within the organizational functioning of the IETF. While
 these roles require administrative rather than technical work, they form a significant
-part of the IAB's activities.
+part of the IAB's activities as specified in the IAB charter [[RFC 2850]](https://tools.ietf.org/html/rfc2850).
 
 - The IAB has a role in the IETF Nominations Committee process:
   the IAB confirms the IETF Chair and the Area Directors (IESG).
@@ -28,9 +28,9 @@ part of the IAB's activities.
 - The IAB provides direction for the administration of the IETF's protocol parameters
   registries (the IANA function).
 
-- The IAB selects the Independent submission Editor as well as
+- The IAB selects the Independent submission Editor [[RFC8730]](https://tools.ietf.org/html/rfc8730) as well as
   the chair of the Internet Research Task Force (IRTF) and oversees the IRTF's
-  activities.
+  activities [[RFC2014]](https://tools.ietf.org/html/rfc2014).
 
 - The IAB is responsible for interfacing with other organizations on behalf of the IETF. It
   does this primarily through its liaison process.
