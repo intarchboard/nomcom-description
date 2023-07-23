@@ -133,7 +133,7 @@ balanced across all aspects of the role.
 The time commitment for an IAB member averages about six to sixteen hours a week in normal
 weeks (with significant week-to-week variability), and full-time during IETF meetings,
 retreats, and IAB workshops.
-Some positions within the IAB require more time.
+Some positions and activities within the IAB require a higher time commitment. These include Chairing the IAB, liaison co-ordination, organizing IAB workshops, IAB liaisons to the IESG and the Nomcom etc. 
 It is expected that IAB members also actively participate in IETF activities.
 Simply tracking the various mailing list and documents can take up to a day a week.
 About a quarter to half of the time is spent on the organizational activities.
