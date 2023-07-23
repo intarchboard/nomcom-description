@@ -139,7 +139,6 @@ Simply tracking the various mailing list and documents can take up to a day a we
 About a quarter to half of the time is spent on the organizational activities.
 Leading a program is an equivalent time commitment to chairing a working group;
 active participation in a program can take additional time.
-Each IAB member should be able to commit to leading a program during their IAB term.
 
 The typical time commitment for the IAB Chair is three days a week, and this position may
 require more travel.
