@@ -59,12 +59,14 @@ that the right people within these groups are in contact with each other.
 
 The IAB maintains open communications channels with other bodies engaged in Internet
 governance, including ICANN, the Regional Internet Registries, and ISOC, and provides
-technical and architectural input as appropriate.
+technical and architectural input as appropriate. Members of the IAB also participate in 
+outreach activities, primarily aimed at increasing the visibility of the IETF, representing the 
+Internet's Technical Community, and advocating for a multistakeholder approach to Internet 
+Governance.
+
 As needed, the IAB works with ISOC to provide advice and guidance to the Internet
 community on technical, architectural, and policy matters pertaining to the Internet and
 its enabling technologies.
-That advice and guidance are provided to the public, to the Board of Trustees, and
-Officers of the Internet Society as circumstances dictate.
 
 ## Organization of the IAB
 
@@ -143,9 +145,10 @@ active participation in a program can take additional time.
 The typical time commitment for the IAB Chair is three days a week, and this position may
 require more travel.
 The IAB Chair is an ex officio member of the IESG and must devote time to IESG meetings
-including a yearly retreat, which is often but not always adjacent to the IAB retreat. The IAB selects its chair every year and it would be beneficial for the Nomcom to consider one or more candidates who are qualified for/interested in serving as chair.
+including a yearly retreat, which is often but not always adjacent to the IAB retreat. 
 
-IAB members may be called upon by ADs to do reviews of specialized documents and other
+The IESG may call upon IAB members to aid in the evaluation of new work in the IETF by 
+reviewing documents and charters, acting as IAB Shepherds for a BOF, and other
 tasks, potentially adding to those numbers.
 
 IAB members should plan to arrive at IETF meetings at or before the start of the meeting
@@ -153,8 +156,9 @@ week. Time commitment during the meeting includes time on Sunday, early mornings
 the week, during meal times, and Friday after scheduled meetings conclude IAB members are
 expected to cover and report on BoFs during the meeting.
 
-The IAB typically holds an annual retreat from one to three days, and teleconferences on a
-regular basis, currently 2-3 times a month.
+The IAB typically holds an annual retreat of one to three days, full-board meetings at 
+least six times per year, and regular teleconferences as needed to fulfill its 
+responsibilities.
 
 ## References
 
