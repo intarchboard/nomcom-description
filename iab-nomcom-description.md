@@ -97,7 +97,8 @@ incumbents) who are willing and able to take the role of Chair.
 
 The IAB is most effective when it is composed of a diverse set of individuals with a broad
 range of technical skills, architectural perspectives, and backgrounds.
-For example, the IAB should have members with technical leadership experience,
+
+The IAB should have members with technical leadership experience,
 operational management backgrounds, research or academic backgrounds, implementation
 experience, and experience in other bodies involved in Internet governance.
 Likewise, the IAB should have members who have had experiences with differing technical
@@ -107,11 +108,11 @@ shared viewpoint.
 
 Some IAB activities are very specialized - for example, managing liaison relationships
 with other SDOs on behalf of the IETF. The IAB 
-should have members have sufficient managerial skills to understand the issues
+should have members with sufficient managerial skills to understand the issues
 that need to be addressed by the IAB, as well as to manage and document inter-SDO liaison 
 relationships on a strategic basis.
 
-While it is advantageous for at least some IAB members to have expertise in the IAB's
+While some IAB members should have expertise in the IAB's
 current technical program topics, it is more important for the IAB to have members who are
 experienced in building and managing teams of volunteers and who can motivate program work,
 and direct them even in the absence of in-depth knowledge about specific
