@@ -61,7 +61,7 @@ The IAB maintains open communications channels with other bodies engaged in Inte
 governance, including ICANN, the Regional Internet Registries, and ISOC, and provides
 technical and architectural input as appropriate. Members of the IAB also participate in 
 outreach activities, primarily aimed at increasing the visibility of the IETF, representing the 
-Internet's Technical Community, and advocating for a multistakeholder approach to Internet 
+Internet's Technical Community while supporting the multistakeholder approach to Internet 
 Governance.
 
 As needed, the IAB collaborates with ISOC to offer advice and guidance to the Internet
@@ -129,9 +129,9 @@ balanced across all aspects of the role.
 
 ## Time Commitment
 
-The time commitment for an IAB member averages between six to sixteen hours a week 
-(with significant week-to-week variability) and full-time during IETF meetings,
-retreats, and IAB workshops.
+The time commitment for an IAB member ranges from at least 10% to 20% or more per week 
+(with significant week-to-week variability), depending on involvement and activities. 
+Full-time engagement is expected during retreats, and IAB workshops.
 Some positions and activities require a higher time commitment. These include chairing the IAB, liaison coordination, leading a program, organizing IAB workshops, and serving as IAB liaisons to the IESG and the Nomcom. 
 It is expected that IAB members also actively participate in IETF activities.
 Simply tracking the various mailing lists and documents can take up to a day a week.
@@ -157,9 +157,12 @@ The IAB typically holds an annual retreat of one to three days, full-board meeti
 least six times per year, and regular teleconferences as needed to fulfill its 
 responsibilities.
 
+Travel funding is not available from the IAB for any of its members to attend any of the activities described above.
+
 ## References
 
 - [https://www.iab.org/about/iab-overview/ IAB Role]
 - [http://www.ietf.org/rfc/rfc2850.txt IAB Charter]
 - [https://www.iab.org/about/description/ IAB Role Description]
 - [http://www.iab.org/activities/programs/ IAB Program Description]
+- [https://wiki.ietf.org/group/iab/committee-model The Committee Model of IAB Operation]
