@@ -10,7 +10,7 @@ its enabling technologies.
 
 ### Organizational Role
 
-The IAB has several roles within the organizational structure of the IETF. While
+The IAB has various roles within the organizational structure of the IETF. While
 these roles require administrative rather than technical work, they form a significant
 part of the IAB's activities as specified in the IAB charter [[RFC 2850]](https://tools.ietf.org/html/rfc2850).
 
