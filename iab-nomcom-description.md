@@ -62,7 +62,7 @@ governance, including ICANN, the Regional Internet Registries, and ISOC, and pro
 technical and architectural input as appropriate. Members of the IAB also participate in 
 outreach activities, primarily aimed at increasing the visibility of the IETF, representing the 
 Internet's Technical Community while supporting the multistakeholder approach to Internet 
-Governance.
+Governance. A diverse IAB membership, spanning geographic regions and connected to a range of external communities, strengthens the IAB's ability to conduct this outreach effectively.
 
 As needed, the IAB collaborates with ISOC to offer advice and guidance to the Internet
 community on technical, architectural, and policy matters related to the Internet and
@@ -117,6 +117,8 @@ current technical program topics, it is more important for the IAB to have membe
 experienced in building and managing teams of volunteers and who can motivate program work,
 and direct them even in the absence of in-depth knowledge about specific
 technical topics.
+
+The IAB benefits from members who are active and able to dedicate sufficient time to IAB work, who are self-driven in identifying topics of broad community interest, and who use the IAB's levers -- programs, workshops, and IAB-stream publications to produce concrete outputs. This includes proposing new technical programs, new IAB-stream RFCs, and new IAB activities, rather than only sustaining the existing ones.
 
 The IAB also has regular technical discussions with invited experts on selected topics
 that could be of interest to the Internet community. The IAB should have members
