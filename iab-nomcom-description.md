@@ -133,7 +133,7 @@ balanced across all aspects of the role.
 
 The time commitment for an IAB member ranges from at least 10% to 20% or more per week 
 (with significant week-to-week variability), depending on involvement and activities. 
-Full-time engagement is expected during retreats, and IAB workshops.
+Full-time engagement is expected during IAB strategy meetings, and IAB workshops.
 Some positions and activities require a higher time commitment. These include chairing the IAB, liaison coordination, leading a program, organizing IAB workshops, and serving as IAB liaisons to the IESG and the Nomcom. 
 It is expected that IAB members also actively participate in IETF activities.
 Simply tracking the various mailing lists and documents can take up to a day a week.
@@ -144,7 +144,7 @@ active participation in a program can take additional time.
 The typical time commitment for the IAB Chair is three days a week, and this position may
 require more travel.
 The IAB Chair is an ex officio member of the IESG and must devote time to IESG meetings,
-including a yearly retreat, which is often but not always adjacent to the IAB retreat. 
+including a yearly strategy meeting, which is often but not always adjacent to the IAB strategy meeting. 
 
 The IESG may call upon IAB members to aid in the evaluation of new work in the IETF by 
 reviewing documents and charters, acting as IAB Shepherds for a BOF, and other
@@ -155,7 +155,7 @@ week. The time commitment during the meeting week includes time on Sunday, early
 the week, during meal times, and Friday after scheduled meetings conclude. IAB members are
 expected to cover and report on BoFs during the week.
 
-The IAB typically holds an annual retreat of one to three days, full-board meetings at 
+The IAB typically holds an annual strategy meeting of one to three days, full-board meetings at 
 least six times per year, and regular teleconferences as needed to fulfill its 
 responsibilities.
 
