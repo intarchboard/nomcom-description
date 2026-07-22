@@ -118,7 +118,7 @@ experienced in building and managing teams of volunteers and who can motivate pr
 and direct them even in the absence of in-depth knowledge about specific
 technical topics.
 
-The IAB benefits from members who are active and able to dedicate sufficient time to IAB work, who are self-driven in identifying topics of broad community interest, and who use the IAB's levers -- programs, workshops, and IAB-stream publications to produce concrete outputs. This includes proposing new technical programs, new IAB-stream RFCs, and new IAB activities, rather than only sustaining the existing ones.
+The IAB members are expected to be active and able to dedicate sufficient time to IAB work, who are self-driven in identifying topics of broad community interest, and who use the IAB's levers -- programs, workshops, and IAB-stream publications to produce concrete outputs. This includes proposing new technical programs, new IAB-stream RFCs, and new IAB activities, rather than only sustaining the existing ones.
 
 The IAB also has regular technical discussions with invited experts on selected topics
 that could be of interest to the Internet community. The IAB should have members
