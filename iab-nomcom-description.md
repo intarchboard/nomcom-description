@@ -62,7 +62,7 @@ governance, including ICANN, the Regional Internet Registries, and ISOC, and pro
 technical and architectural input as appropriate. Members of the IAB also participate in 
 outreach activities, primarily aimed at increasing the visibility of the IETF, representing the 
 Internet's Technical Community while supporting the multistakeholder approach to Internet 
-Governance. A diverse IAB membership, spanning geographic regions and connected to a range of external communities, strengthens the IAB's ability to conduct this outreach effectively.
+Governance.
 
 As needed, the IAB collaborates with ISOC to offer advice and guidance to the Internet
 community on technical, architectural, and policy matters related to the Internet and
