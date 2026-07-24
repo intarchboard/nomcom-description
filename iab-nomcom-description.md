@@ -2,9 +2,9 @@
 
 The Internet Architecture Board (IAB) is chartered both as a committee of the IETF and as
 an advisory body of the Internet Society (ISOC). The IAB supports the operation of the
-IETF. It provides architectural input into IETF technical activities as well as sponsoring
+IETF. It provides architectural input into IETF technical activities in addition to sponsoring
 and organizing work in the IRTF. The IAB serves as a source of advice and guidance
-on technical, architectural and procedural matters related to the Internet and
+on technical, architectural, and procedural matters related to the Internet and
 its enabling technologies.
 
 
@@ -42,7 +42,7 @@ part of the IAB's activities as specified in the IAB charter [[RFC 2850]](https:
 
 - The IAB is responsible for appointing one of the Chairs of the RFC Series Working
   Group (RSWG) and a voting member of the RFC Series Approval Board (RSAB) as
-  specified in [[RFC 9280]](https://tools.ietf.org/html/rfc9280)
+  specified in [[RFC 9280]](https://tools.ietf.org/html/rfc9280).
 
 All IAB members need to be prepared to participate (to varying degrees) in these
 activities.
@@ -51,7 +51,7 @@ activities.
 
 A principal role of the IAB is to take a broad and long-range perspective, offering input
 into the planning and coordination among different areas of Internet activities, including
-those of the IETF and IRTF. The sum of the expertise of IAB members encompasses a broad
+those of the IETF and IRTF. Collectively, IAB members possess expertise spanning a broad
 range of technologies under IETF and IRTF. The IAB is expected to pay attention to
 important long-term issues on the Internet and ensure that these issues are brought
 to the attention of the groups that are in a position to address them and
@@ -73,7 +73,7 @@ its enabling technologies.
 To enhance institutional memory and facilitate the development of medium and long-term 
 activities, the IAB organizes its work into several areas, including technical
 programs and administrative support groups (see <https://www.iab.org/activities/programs/>).
-A technical program is a long-term activity comprised of a body of
+A technical program is a long-term activity composed of a body of
 technical experts from the wider community (see
 [RFC 2850](https://tools.ietf.org/html/rfc2850) Section 2.1). Program outputs can include IAB
 documents and statements.
