@@ -7,46 +7,6 @@ and organizing work in the IRTF. The IAB serves as a source of advice and guidan
 on technical, architectural, and procedural matters related to the Internet and
 its enabling technologies.
 
-
-### Organizational Role
-
-The IAB has various roles within the organizational structure of the IETF. While
-these roles require administrative rather than technical work, they form a significant
-part of the IAB's activities as specified in the IAB charter [[RFC 2850]](https://tools.ietf.org/html/rfc2850).
-
-- The IAB has a role in the IETF Nominations Committee process:
-  the IAB confirms the IETF Chair and the Area Directors (IESG).
-
-- The IAB serves as an appeal board for complaints of improper execution of the standards
-  process, handling appeals related to IESG standards decisions.
-
-- The IAB appoints ISOC Board of Trustees (BoT) members and
-  similar positions in other Internet governance bodies.
-
-- The IAB handles appeals on matters related to the IETF LLC.
-
-- The IAB provides direction for the administration of the IETF's protocol parameters
-  registries (the IANA function).
-
-- The IAB selects the Independent Submission Editor [[RFC8730]](https://tools.ietf.org/html/rfc8730) as well as
-  the Chair of the Internet Research Task Force (IRTF) and oversees the IRTF's
-  activities [[RFC2014]](https://tools.ietf.org/html/rfc2014).
-
-- The IAB is responsible for interfacing with other organizations on behalf of the IETF. It
-  does this primarily through its liaison process.
-  When necessary, IAB members will engage more directly with other organizations.
-
-- The IAB reviews the charters of new and existing IRTF RGs.  The IAB receives regular
-  feedback and status overviews from IRTF RGs and provides input to the community
-  from an architectural perspective.
-
-- The IAB is responsible for appointing one of the Chairs of the RFC Series Working
-  Group (RSWG) and a voting member of the RFC Series Approval Board (RSAB) as
-  specified in [[RFC 9280]](https://tools.ietf.org/html/rfc9280).
-
-All IAB members need to be prepared to participate (to varying degrees) in these
-activities.
-
 ### Architectural Role
 
 A principal role of the IAB is to take a broad and long-range perspective, offering input
@@ -67,6 +27,46 @@ Governance.
 As needed, the IAB collaborates with ISOC to offer advice and guidance to the Internet
 community on technical, architectural, and policy matters related to the Internet and
 its enabling technologies.
+
+### Organizational Role
+
+The IAB has various roles within the organizational structure of the IETF. While
+these roles require administrative rather than technical work, they form a significant
+part of the IAB's activities as specified in the IAB charter [[RFC 2850]](https://tools.ietf.org/html/rfc2850).
+
+- The IAB is responsible for interfacing with other organizations on behalf of the IETF. It
+  does this primarily through its liaison process.
+  When necessary, IAB members will engage more directly with other organizations.
+
+- The IAB reviews the charters of new and existing IRTF RGs.  The IAB receives regular
+  feedback and status overviews from IRTF RGs and provides input to the community
+  from an architectural perspective.
+
+- The IAB serves as an appeal board for complaints of improper execution of the standards
+  process, handling appeals related to IESG standards decisions.
+
+- The IAB handles appeals on matters related to the IETF LLC.
+
+- The IAB provides direction for the administration of the IETF's protocol parameters
+  registries (the IANA function).
+
+- The IAB has a role in the IETF Nominations Committee process:
+  the IAB confirms the IETF Chair and the Area Directors (IESG).
+
+- The IAB selects the Independent Submission Editor [[RFC8730]](https://tools.ietf.org/html/rfc8730) as well as
+  the Chair of the Internet Research Task Force (IRTF) and oversees the IRTF's
+  activities [[RFC2014]](https://tools.ietf.org/html/rfc2014).
+
+- The IAB appoints ISOC Board of Trustees (BoT) members and
+  similar positions in other Internet governance bodies.
+
+- The IAB is responsible for appointing one of the Chairs of the RFC Series Working
+  Group (RSWG) and a voting member of the RFC Series Approval Board (RSAB) as
+  specified in [[RFC 9280]](https://tools.ietf.org/html/rfc9280).
+
+All IAB members need to be prepared to participate (to varying degrees) in these
+activities.
+
 
 ## Organization of the IAB
 
