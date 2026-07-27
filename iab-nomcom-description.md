@@ -5,7 +5,7 @@ an advisory body of the Internet Society (ISOC). The IAB supports the operation 
 IETF. It provides architectural input into IETF technical activities in addition to sponsoring
 and organizing work in the IRTF. The IAB serves as a source of advice and guidance
 on technical, architectural, and procedural matters related to the Internet and
-its enabling technologies.
+its enabling technologies. The IAB Charter is specified in [[RFC 2850]](https://tools.ietf.org/html/rfc2850).
 
 ### Architectural Role
 
@@ -32,7 +32,7 @@ its enabling technologies.
 
 The IAB has various roles within the organizational structure of the IETF. While
 these roles require administrative rather than technical work, they form a significant
-part of the IAB's activities as specified in the IAB charter [[RFC 2850]](https://tools.ietf.org/html/rfc2850).
+part of the IAB's activities. 
 
 - The IAB is responsible for interfacing with other organizations on behalf of the IETF. It
   does this primarily through its liaison process.
